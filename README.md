@@ -1,19 +1,20 @@
-# Projeto em grupo para colocar me prática os conhecimento de html, css e JS
+# Projeto em grupo para colocar em prática os conhecimento de html, css e JS
 
 # Atribuições do líder da equipe
 - Seguir os fluxos e padrões definidos neste README
-- Criar a branch staging (se ainda não existir) partindo da master para que os membros da sua equipe possa começar os trabalhos.
+- Criar a branch staging (se ainda não existir) partindo da master para que os membros da sua equipe possam começar os trabalhos.
+- Configurar github pages do repositório com a branch staging (se ainda não tiver configurado)
 - Fazer code review
 - Fazer QA e decidir se a tarefa vai para coluna de produção ou para a coluna de retrabalho
 - Manter a qualidade do código
-- Auxiliar os membros da equipe para que todos consigma alcançar o objetivo da sprint
+- Auxiliar os membros da equipe para que todos consigam alcançar o objetivo da sprint
 
 # Atribuições da equipe
 - Seguir os fluxos e padrões definidos neste README
 - Sempre manter o comentário da tarefa atualizado com o link para as PRs da tarefa
 - Fazer code review
 - Manter a qualidade do código
-- Auxiliar os membros da equipe para que todos consigma alcançar o objetivo da sprint
+- Auxiliar os membros da equipe para que todos consigam alcançar o objetivo da sprint
 
 # Branches
 > Dica: Sempre antes de criar uma nova branch faça um git pull na branch de origem
@@ -27,7 +28,7 @@
   - Essa é a branch do ambiente de teste, essa branch deve ser configurada como a branch do github pages para podermos ver o projeto rodando.
   - Todas as tarefas precisam chegar nessa branch por meio de Pull request para poder ficar disponível na coluna de QA
 - `Branch das tarefas`
-  - Cada tarefa deve ser feita em uma branch separada e e toda nova branch deve partir de staging (com exceção da própria staging que deve partir da master)
+  - Cada tarefa deve ser feita em uma branch separada e toda nova branch deve partir de staging (com exceção da própria staging que deve partir da master)
 
 ## Padrões de branch
 > Fix: Correção, bug
@@ -74,4 +75,7 @@ A mesma coisa serve para o Feat
 - Concluído
   - Em sala de aula vamos ver se a tarefa realmente foi concluído e aprovar a PR para poder fazer um merge em produção
 
+# FAQ
+1. O que é staging
 
+A palavra staging significa encenação. Essa vai ser a branch que vai receber as tarefas concluídas antes de chegar em produção. Esse vai ser nosso ambiente de teste, onde as coisas podem quebrar e dar errado.
