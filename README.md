@@ -84,6 +84,8 @@ A mesma coisa serve para o Feat
 - Não entregue
   - Tarefas que passaram pela Garantia de qualidade e chegaram na coluna de produção porém não atende todos os requisitos
   - Quando uma tarefa chega nesse coluna uma outra tarefa deve ser aberto com a etiqueta **Fix** e adicionada na proxima sprint
+ 
+  
 
 # FAQ
 1. O que é staging
