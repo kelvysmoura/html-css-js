@@ -12,8 +12,8 @@ Aplicar os conhecimentos de HTML, CSS e JS na construção de
 
 # Atribuições da equipe
 - Seguir os fluxos e padrões definidos neste README
-- Sempre manter manter a tarefa atualiza com o link da PR nos comentários
-- Fazer code review
+- Sempre manter a tarefa atualiza com o link da PR nos comentários
+- Fazer revisão do código
 - Manter a qualidade do código
 - Auxiliar os membros da equipe para que todos consigam alcançar o objetivo da sprint
 
@@ -32,7 +32,7 @@ O lider vai ter a mesmas atribuições da equipe e
   - Nunca deve ser aberto uma Pull Request direto da branch staging para master.
 - `staging`
   - Essa é a branch do ambiente de teste, essa branch deve ser configurada como a branch do github pages para podermos ver o projeto rodando.
-  - Todas as tarefas precisam chegar nessa branch por meio de Pull request para poder ficar disponível na coluna de QA
+  - Todas as tarefas precisam chegar nessa branch por meio de Pull request para poder ficar disponível na coluna de Garantia de qualidade
 - `Branch das tarefas`
   - Cada tarefa deve ser feita em uma branch separada e toda nova branch deve partir de staging
 
